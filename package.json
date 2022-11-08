@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/b4ssey/notification-service-sls/issues"
   },
-  "homepage": "https://github.com/b4ssey/notification-service-sls#readme"
+  "homepage": "https://github.com/b4ssey/notification-service-sls#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1249.0"
+  },
+  "devDependencies": {
+    "serverless-bundle": "^5.5.0"
+  }
 }
